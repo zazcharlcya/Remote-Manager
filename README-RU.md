@@ -21,7 +21,7 @@
 
 1. Склонируйте репозиторий:
 
-git clone \[https://github.com/your-username/remote-manager.git\](https://github.com/your-username/remote-manager.git)  
+git clone https://github.com/zazcharlcya/Remote-Manager.git  
 cd remote-manager
 
 2. Установите зависимости:
