@@ -61,6 +61,11 @@ remote-manager/
 * 🌍 Support for internet connections.  
 * 📊 More comprehensive resource metrics.  
 * 🖥 Package into an .exe/.AppImage for easy launch.
+  
+## 📥 Download
+
+### Latest Release
+Download the executable for Windows: [Remote_Manager.exe](https://github.com/zazcharlcya/Remote-Manager/releases/latest)
 
 ## **📜 License**
 
