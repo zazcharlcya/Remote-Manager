@@ -22,7 +22,7 @@
 1. Склонируйте репозиторий:
 
 git clone https://github.com/zazcharlcya/Remote-Manager.git  
-cd remote-manager
+cd Remote-Manager
 
 2. Установите зависимости:
 
