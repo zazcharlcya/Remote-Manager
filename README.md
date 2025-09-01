@@ -21,7 +21,7 @@
 
 1. Clone the repository:
 
-git clone \[https://github.com/your-username/remote-manager.git\](https://github.com/your-username/remote-manager.git)  
+git clone https://github.com/zazcharlcya/Remote-Manager?tab=readme-ov-file  
 cd remote-manager
 
 2. Install dependencies:
